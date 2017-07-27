@@ -64,15 +64,17 @@ body {
     float: left;
     background-image:url('mound_8.png');
 }
-.penguin1:hover {
-    background-image:url('mound_1.png');
-    cursor: pointer;
-}
 .yeti {
     width: 200px;
     height: 200px;
     float: left;
     background-image:url('mound_9.png');
+}
+
+.penguin1:hover {
+    background-image:url('mound_1.png');
+    cursor: pointer;
+
 }
 .penguin2:hover {
     background-image:url('mound_2.png');
